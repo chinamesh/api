@@ -84,4 +84,4 @@ ResourceRoutes();
 UpdaterRoutes();
 MqttRoutes();
 
-app.listen(Number.parseInt(process.env.PORT ?? "4000"));
+export default app;
