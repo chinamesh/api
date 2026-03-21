@@ -4,7 +4,7 @@
   "installCommand": "pnpm install",
   "functions": {
     "dist/index.js": {
-      "runtime": "nodejs24.x"
+      "runtime": "nodejs@24.x"
     }
   },
   "routes": [
