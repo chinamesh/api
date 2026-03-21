@@ -2,8 +2,8 @@ import { createAppAuth } from "@octokit/auth-app";
 import { config } from "@tinyhttp/dotenv";
 import { Octokit } from "octokit";
 
-const DEVICE_OWNER = "meshtastic";
-const DEVICE_REPO = "firmware";
+const DEVICE_OWNER = "chinamesh";
+const DEVICE_REPO = "MeshCN-Variant";
 
 config();
 

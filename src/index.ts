@@ -38,11 +38,11 @@ app
 
         const whitelist = [
           "http://localhost:3000",
-          "https://meshtastic.org",
-          "https://flash.meshtastic.org",
-          "https://flasher.meshtastic.org",
-          "https://map.meshtastic.org",
-          "https://web-flasher-git-facelift-meshtastic.vercel.app",
+          "https://meshcn.net",
+          "https://flash.meshcn.net",
+          "https://flasher.meshcn.net",
+          "https://map.mess.host",
+          "https://web-flasher-git-facelift-meshcn.vercel.app",
         ];
 
         // return origin if it is in the whitelist
